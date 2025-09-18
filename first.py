@@ -7,7 +7,7 @@ print("Reserving with python is almost too much fun!")
 
 
 # %%
-x = 6 * 7 * oh no I broke it!
+x = 6 * 7
 
 print(x)
 
